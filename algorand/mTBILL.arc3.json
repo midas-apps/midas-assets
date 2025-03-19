@@ -1,0 +1,14 @@
+{
+  "name": "Midas US Treasury Bill Token",
+  "decimals": 9,
+  "description": "Midas US Treasury Bill Token",
+  "image": "https://raw.githubusercontent.com/midas-apps/midas-assets/refs/heads/main/mtbill_512px.png",
+  "image_mimetype": "image/png",
+  "external_url": "https://midas.app",
+  "external_url_mimetype": "text/html",
+  "properties": {
+    "arc-62": {
+      "application-id": 2849426479
+    }
+  }
+}
